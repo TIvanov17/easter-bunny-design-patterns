@@ -13,11 +13,8 @@ import utility.InputScanner;
 public class EasterManagerImpl implements EasterManager{
 
     private AbstractEggFactory factory;
-
     private EasterBunny easterBunny;
-
     private final EasterRenderer easterRenderer;
-
     private boolean isGameEnd;
 
     public EasterManagerImpl(){

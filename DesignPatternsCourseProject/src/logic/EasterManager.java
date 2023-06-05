@@ -11,8 +11,5 @@ import exceptions.InvalidEasterInputException;
 import utility.InputScanner;
 
 public interface EasterManager {
-
     void start();
-
-
 }

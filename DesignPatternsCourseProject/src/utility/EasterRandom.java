@@ -12,6 +12,7 @@ public class EasterRandom {
     private EasterRandom(){
 
     }
+
     public static int getRandomNumber(int upperBound){
         return random.nextInt(upperBound);
     }

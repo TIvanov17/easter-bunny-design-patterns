@@ -4,7 +4,6 @@ import entities.eggs.Egg;
 
 public class EasterRendererImpl implements EasterRenderer {
 
-
     @Override
     public void renderWelcomeGreeting(){
         System.out.println("ДОБРЕ ДОШЪЛ !");
